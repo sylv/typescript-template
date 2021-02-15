@@ -1,2 +1,3 @@
-# typescript-template
-A project template for TypeScript
+# @ryanke/typescript-template
+
+A very interesting project.
