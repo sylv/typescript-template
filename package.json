@@ -1,8 +1,8 @@
 {
-  "name": "@ryanke/typescript-template",
+  "name": "@ryanke/template",
   "version": "0.0.1",
-  "repository": "https://github.com/sylv/typescript-template.git",
-  "description": "A very interesting repository.",
+  "repository": "https://github.com/sylv/template.git",
+  "description": "A very interesting repository",
   "author": "Ryan <ryan@sylver.me>",
   "license": "MIT",
   "private": false,
